@@ -1,6 +1,6 @@
 # Projeto-data-science
 
-1 - Covid-19
+1 - <a href="https://github.com/devfabiii/Projeto-data-science/blob/main/Covid19Projeto.ipynb" target="_blank"> Covid-19 </a>
 
 2 - Projeto de Teste de Personalidade
 
