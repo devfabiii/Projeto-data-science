@@ -4,7 +4,7 @@
 
 2 - <a href="https://github.com/devfabiii/Projeto-data-science/blob/main/Big_Five_Personality_Test.ipynb" target="_blank">Projeto de Teste de Personalidade </a>
 
-3 - Notas de Filmes
+3 - <a href="https://github.com/devfabiii/Projeto-data-science/blob/main/Notas_de_filmes.ipynb" target="_blank">Notas de Filmes </a>
 
 4 - Previsão de Preço Residencial
 
