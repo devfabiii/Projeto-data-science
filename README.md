@@ -8,4 +8,4 @@
 
 4 - <a href="https://github.com/devfabiii/Projeto-data-science/blob/main/Previsao_de_preco_residencia.ipynb" target="_blank">Previsão de Preço Residencial </a>
 
-5 - Faturamentos
+5 - <a href="https://github.com/devfabiii/Projeto-data-science/blob/main/Faturamentos.ipynb" target="_blank">Faturamentos </a>
